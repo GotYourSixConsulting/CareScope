@@ -1,0 +1,12 @@
+{
+  "name": "health-check-ai-server",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
